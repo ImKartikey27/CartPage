@@ -16,7 +16,8 @@ The Cart Page project is a simple yet interactive shopping cart built using HTML
 
 HTML – Structure of the cart page  
 CSS – Styling for an engaging UI  
-JavaScript – Handles cart functionality, price calculations, and updates  
+JavaScript – Handles cart functionality, price calculations, and updates 
+
 🚀 How to Use  
 
 Open the project in a browser.  
